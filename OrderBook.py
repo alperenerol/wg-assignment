@@ -1,7 +1,3 @@
-"""
-Wargaming Prague: OrderBook class Assignment
-@author: Alperen Erol
-"""
 
 # Unsorted Linear Search
 def seqSearch(arr,element):       
